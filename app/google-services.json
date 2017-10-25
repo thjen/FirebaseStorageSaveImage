@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "330956552350",
+    "firebase_url": "https://imagestorage-51440.firebaseio.com",
+    "project_id": "imagestorage-51440",
+    "storage_bucket": "imagestorage-51440.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330956552350:android:7078b9a24a182558",
+        "android_client_info": {
+          "package_name": "com.example.thjen.firebasestoragesaveimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330956552350-8us6h313js99kdhf40gdg6m2lg1a0qb5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy6z6x2jAo1ocP08qip0J2cYszZeZcPyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
